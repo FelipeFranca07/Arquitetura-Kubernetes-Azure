@@ -144,3 +144,4 @@ Cosmos DB via Table API — o equivalente mais próximo do DynamoDB — para dad
 Ordem de criação: rede → subnets → firewall → load balancer → peering → AKS → dados — a mesma sequência da versão em Terraform, só que clicada.
 
 Os menus e assistentes do portal mudam de nome e posição com o tempo; a lógica e a ordem dos passos continuam válidas mesmo que um rótulo específico tenha se movido.
+
